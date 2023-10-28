@@ -3,8 +3,8 @@
 **Live Link: [pixle Time](https://main--voluble-maamoul-2711f4.netlify.app/)** 
 
 ---
-<p align="center" style="display: inline; margin: 0;">
-<img alt='pixletime' src='./PNG yellow.png'/>
+<p style="text-align: center; margin: 0;">
+  <img alt='pixletime' src='./PNG yellow.png' style="display: inline; margin: 0;">
 </p>
 
 
