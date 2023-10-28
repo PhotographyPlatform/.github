@@ -3,9 +3,10 @@
 **Live Link: [pixle Time](https://main--voluble-maamoul-2711f4.netlify.app/)** 
 
 ---
-<p style="text-align: center; margin: 0;">
-  <img alt='pixletime' src='./PNG yellow.png' style="display: inline; margin: 0;">
-</p>
+
+![pixletime](./PNG%20yellow.png)
+
+
 
 
 Pixle Time is a platform where photographers can showcase their portfolios and interact with users. Key features include user profiles, portfolio display, interactivity (likes and comments), search functionality, direct messaging, and user privacy controls
