@@ -4,7 +4,7 @@
 
 ---
 <p align="center" style="display: inline; margin: 0;">
-<img alt='pixletime' src='./PNG yellow.png'>
+<img alt='pixletime' src='./PNG yellow.png'/>
 </p>
 
 
